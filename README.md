@@ -98,7 +98,7 @@ The `htdocs` folder is the root directory where your web projects will reside in
 2. **Create your project folder**:
    - Inside the `htdocs` folder, create a new directory for your project:
      ```bash
-     mkdir sms-project
+     mkdir cms-project
      ```
    - You can name your project folder whatever you like, but in this case, we’ll use `sms-project`.
 
